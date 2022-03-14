@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.daliuchen.quickdatabase.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.daliuchen.quickdatabase.MyBundle
 
 class MyApplicationService {
 
